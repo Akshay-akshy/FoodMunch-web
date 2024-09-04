@@ -10,4 +10,4 @@ Foodie Delights is a delightful web application that celebrates the world of gas
 #Gif card 
 ![image alt](https://github.com/Akshay-akshy/FoodMunch-web/blob/28e0c6e1795c6d23c913efd92a7a5228761fbe6e/template%203.png?raw=true)
 
-![Uploading Screenshot_4-9-2024_154324_127.0.0.1.jpeg…]()
+![Uploading Screenshot_4-9-2024_154324_127.0.0.1.jpeg…](?raw=true)
